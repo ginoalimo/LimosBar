@@ -1,0 +1,20 @@
+{
+  "name": "limosbar",
+  "version": "1.0.0",
+  "description": "Personal project MERN",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/ginoalimo/LimosBar.git"
+  },
+  "keywords": [],
+  "author": "Gino A. Limo",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/ginoalimo/LimosBar/issues"
+  },
+  "homepage": "https://github.com/ginoalimo/LimosBar#readme"
+}
